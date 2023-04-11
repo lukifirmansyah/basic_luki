@@ -1,0 +1,9 @@
+ Scanner input = new Scanner(System.in);
+        int a, b, tambah;
+        System.out.print("masukan variable a: ");
+        a = input.nextInt();
+        System.out.print("masukan variable b: ");
+        b = input.nextInt();
+        tambah = a + b;
+        
+        System.out.print("nilai variable a + variable b : " + tambah + "\n" + "dikerjakan oleh LUKI ASHAR FIRMANSYAH" );
